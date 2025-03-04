@@ -4,7 +4,6 @@ tracer(0)
 scl = 20
 x= 0
 y = 0
-up()
 for i in range(10):
     goto(x+ 0*scl,y+ 2*scl)
     dot(5,"red")
